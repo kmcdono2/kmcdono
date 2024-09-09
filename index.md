@@ -14,6 +14,10 @@ My digital work uses computational image, text, and spatial analysis to create n
 
 I completed my PhD in History at Stanford University. Please see [my profile at Lancaster](https://www.lancaster.ac.uk/history/about/people/katherine-mcdonough) for more details.
 
+## Contact
+
+k.mcdonough at lancaster.ac.uk
+
 ## Projects
 
 [Data/Culture: Building sustainable communities around Arts and Humanities datasets and tools](https://www.turing.ac.uk/research/research-projects/dataculture-building-sustainable-communities-around-arts-and-humanities)
