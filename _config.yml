@@ -1,4 +1,4 @@
-title: Researcher
+title: Katherine McDonough
 url: "https://kmcdono.com"
 baseurl: "/researcher"
 
@@ -18,7 +18,6 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "CV"
+   link: "cv_mcdonough_2024.pdf"
+
