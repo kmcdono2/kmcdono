@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img class="profile-picture" src="profile_pic.jpg">
-
 ## Katherine McDonough
+
+<img class="profile-picture" src="profile_pic.jpg">
 
 I am a Lecturer in Digital Humanities in the Department of History at Lancaster University and also a Senior Research Fellow at The Alan Turing Institute in London, UK. 
 
