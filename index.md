@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile_pic.jpg">
 
 ## Katherine McDonough
 
