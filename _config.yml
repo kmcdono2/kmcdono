@@ -1,6 +1,6 @@
 title: Katherine McDonough
 url: "https://kmcdono.com"
-baseurl: "kmcdono.com"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
