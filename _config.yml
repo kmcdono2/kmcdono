@@ -16,8 +16,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
  - name: "CV"
    link: "cv_mcdonough_2024.pdf"
 
