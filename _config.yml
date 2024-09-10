@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "kmcdono.com"
 footer_text: "Page design by Ankit Sultana"
 
