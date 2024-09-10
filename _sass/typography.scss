@@ -37,11 +37,9 @@
         font-style: italic;
     }
     .profile-picture {
-        object-fit: contain;
-        max-width: 100%;
-        max-height: 100%;
-        width: auto;
-        height: auto;
+        height: $image-size;
+        width: $image-size;
+        aspect-ratio: 400 / 500;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
