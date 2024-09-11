@@ -6,9 +6,15 @@ layout: default
 
 I am a Lecturer in Digital Humanities in the Department of History at Lancaster University and also a Senior Research Fellow at The Alan Turing Institute in London, UK. 
 
-My first book manuscript *Public Work: Making Roads and Citizens in Eighteenth-Century France* examines unsuccessful socio-economic and political reforms related to infrastructure development in pre-Revolutionary France. 
+I am a historian of eighteenth-century France and a specialist in the spatial digital humanities. I now work across multiple temporal and geographical fields as I develop new methods for analysing digitized collections of historical maps as data. 
 
-My digital work uses computational image, text, and spatial analysis to create new ways of doing historical research with large library and archival collections as data. I lead the [MapReader](https://github.com/maps-as-data/MapReader) project, a software library for analyzing the visual and textual content of historical maps. 
+My first monograph, *Public Work: Making Roads and Citizens in Eighteenth-Century France*, examples unsuccessful socio-economic reform related to infrastructure development in pre-Revolutionary France. Public Work tells the history of the corvée, e.g. the forced labour regime used on highway construction sites ca. 1730 to 1790, as seen from the perspective of the peasants, engineers, and administrators building highways in Brittany. I argue that Breton peasants and some elites used different information technologies to contest the coercive corvée and reimagine provincial government in terms of democratic public utility, all while centralized solutions to the injustice of the corvée failed across the kingdom. 
+
+My digital work uses computational image, text, and spatial analysis to create new ways of doing historical research with large library and archival collections as data. Most recently, I have focused on developing new techniques to examine the spatial information in three types of sources: maps, newspapers, and encyclopedias.  
+
+I lead the [MapReader](https://github.com/maps-as-data/MapReader) project, a software library for analyzing the visual and textual content of historical maps. MapReader makes it possible for historians to ask questions of thousands of maps. It was awarded the American Historical Association’s Roy Rosenzweig Prize for Creativity in Digital History in 2023, and is the only software to have ever been honoured. MapReader first emerged as a collaborative output from the Living with Machines project, and it also now builds on work completed in the Machines Reading Maps project. Machines Reading Maps focused on testing state-of-the-art methods for detecting and recognizing text on maps. A highlight of the project is the dataset of 110 million words found on 57,000 maps in the David Rumsey Historical Map Collection: you can search this dataset and view results at https://www.davidrumsey.com/. 
+
+Since 2023, I have continued to work on the legacy of Living with Machines on the new AHRC-funded Data/Culture: Building sustainable communities around Arts and Humanities datasets and tools project, and in particular research applications and community building around MapReader and historical British newspaper datasets.
 
 I completed my PhD in History at Stanford University. Please see [my profile at Lancaster](https://www.lancaster.ac.uk/history/about/people/katherine-mcdonough) for more details.
 
